@@ -12,6 +12,6 @@
 - `adapters/` 2종 — claude-code · agents-md
 - 라이선스 — 사용자 환경에 넣는 조각은 MIT-0, 그 밖의 문서는 CC BY 4.0
 
-**추가 ID:** SPEC-01 · SPEC-02 · SPEC-03 · SPEC-04 · SPEC-05 · SPEC-06 · SPEC-07 · SPEC-08 · SPEC-09 · SPEC-10 · SPEC-11 · SPEC-12 · SPEC-13 · SPEC-14 · SPEC-15 · SPEC-16 · SPEC-17 · SPEC-18 · SPEC-19 · S1 · S2 · S3 · S4 · S5
+**추가 ID** (항목 기준 — SPEC 19개 중 gate가 있는 것은 15개, SPEC-09·10·11·13은 사례만 있다): SPEC-01 · SPEC-02 · SPEC-03 · SPEC-04 · SPEC-05 · SPEC-06 · SPEC-07 · SPEC-08 · SPEC-09 · SPEC-10 · SPEC-11 · SPEC-12 · SPEC-13 · SPEC-14 · SPEC-15 · SPEC-16 · SPEC-17 · SPEC-18 · SPEC-19 · S1 · S2 · S3 · S4 · S5
 **변경 ID:** 없음
 **폐기 ID:** 없음

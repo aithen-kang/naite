@@ -3,7 +3,7 @@
 AI용. `AGENTS.md`를 상시 지침으로 읽는 에이전트 도구에 쓴다.
 
 - **계열 전체 열**은 이 계열에 공통이라고 이 저장소가 확인한 것만 적는다. 대부분 확인하지 않았다.
-- **Codex 열**은 한 도구의 사실이다. OpenAI 공식 문서(learn.chatgpt.com의 AGENTS.md · Permissions · Memories · Hooks 문서)로 확인한 날을 적었고, 실제 실행에서 관찰한 것은 따로 표시했다. 도구 버전이 바뀌면 달라질 수 있다 — 사실로 단정하기 전에 사용자 환경에서 다시 본다.
+- **Codex 열**은 한 도구의 사실이다. OpenAI 공식 문서로 확인한 날을 적었고 — [AGENTS.md](https://learn.chatgpt.com/docs/agent-configuration/agents-md) · [Permissions](https://learn.chatgpt.com/codex/permission-modes) · [Memories](https://learn.chatgpt.com/codex/customization/memories) · [Hooks](https://learn.chatgpt.com/codex/hooks), 네 주소 모두 2026-09-27에 열어 표의 서술과 대조했다 — 실제 실행에서 관찰한 것은 따로 표시했다. 도구 버전이 바뀌면 달라질 수 있다 — 사실로 단정하기 전에 사용자 환경에서 다시 본다.
 
 | 역할 | 계열 전체 | Codex (확인 2026-09-26) |
 |---|---|---|
